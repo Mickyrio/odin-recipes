@@ -7,7 +7,10 @@
  
    <body>
    <h1>Odin Recipes</h1>
-   <a href="recipes/lasagna.html"> Easy recipes</a>
+   <ul>
+   <li><a href="recipes/lasagna.html"> Easy recipes</a></li>
+   <li><a href="recipes/macandcheese.html> Mac and cheese</a></li>
+   <li><a href="recipes/glazedcarrots.html> Glazed Carrots</a></li>
    </body>
 </html>
 
